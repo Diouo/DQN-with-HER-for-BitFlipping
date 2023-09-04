@@ -7,3 +7,6 @@
 4. CUDA Toolkit 11.6
 5. cuDNN 8302
 6. gym
+
+## Probelm
+1. pred are all zero: 
