@@ -9,4 +9,5 @@
 6. gym
 
 ## Probelm
-1. pred are all zero: 
+1. pred 全为0: clamp导致
+2. HER采样里action无效，state恒等于next state恒等于goal -> 得到的样本里的reward全是1
