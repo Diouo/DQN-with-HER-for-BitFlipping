@@ -10,5 +10,4 @@
 ## Design
 1. exploration到达最大步骤时，done不设置为1
 2. epsilon设置
-3. ema还是reset
-4. mse还是mae
+5. 要记住at还因为贪心策略
