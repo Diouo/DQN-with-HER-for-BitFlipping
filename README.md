@@ -6,8 +6,3 @@
 3. Pytorch 1.12.0
 4. CUDA Toolkit 11.6
 5. cuDNN 8302
-
-## Design
-1. exploration到达最大步骤时，done不设置为1
-2. epsilon设置
-5. 要记住at还因为贪心策略
