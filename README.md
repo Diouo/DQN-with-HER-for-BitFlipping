@@ -6,3 +6,9 @@
 3. Pytorch 1.12.0
 4. CUDA Toolkit 11.6
 5. cuDNN 8302
+
+## Histoty of Distance
+![Distance](./Distance_History.png)  
+
+## Histoty of Success Rate
+![Success Rate](./Success_Rate_History.png)  
